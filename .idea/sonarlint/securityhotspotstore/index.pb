@@ -1,0 +1,19 @@
+
+c
+3app/src/main/java/edu/hanu/mynotes/db/DbSchema.java,d\0\d07abd4ce8893d8865f05c0d360e46fdb421effb
+c
+3app/src/main/java/edu/hanu/mynotes/db/DbHelper.java,7\8\78c54e47fe98a87cc5aed9770b7991b8612688cd
+l
+<app/src/main/java/edu/hanu/mynotes/db/NoteCursorWrapper.java,d\1\d10106927d63715e7f3cf4db5509a44d41b62a49
+c
+3app/src/main/java/edu/hanu/mynotes/AddActivity.java,e\a\ea42d26d53fe3b9dcd53113529496c6907706d6a
+d
+4app/src/main/java/edu/hanu/mynotes/MainActivity.java,4\0\404936e6a39913604088706c1551f97552a47351
+c
+3app/src/main/java/edu/hanu/mynotes/models/Note.java,0\e\0eb44d9036b7a7c4ac8e1d90f227d75e44660f80
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+i
+9app/src/main/java/edu/hanu/mynotes/db/NoteRepository.java,2\4\248a703af858fb670d7fadc96c382586dd5401e5
+l
+<app/src/main/java/edu/hanu/mynotes/adapters/NoteAdapter.java,4\6\46354eb98e121a7a1cc1410fb8af1e388094081d

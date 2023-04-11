@@ -1,0 +1,8 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íñæ‘8öì¿†ô0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íñæ‘8öì¿†ô0
+U
+java:S1128"8Remove this unused import 'androidx.annotation.NonNull'.(ˆÛúÜ8”í¿†ô0
+W
+java:S1128
+":Remove this unused import 'edu.hanu.mynotes.MainActivity'.(ÈàÛù8”í¿†ô0
